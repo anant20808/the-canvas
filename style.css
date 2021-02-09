@@ -1,0 +1,18 @@
+h1
+{
+	color:blue; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url("scenery-art-wallpaper.jpg");
+	background-position:center;
+	background-size:cover;
+
+}
+
+#myCanvas{
+	border-style:ridge;
+	border-width:10px;
+	border-color: white;
+	background-color:white;
+}
